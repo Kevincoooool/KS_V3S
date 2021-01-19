@@ -1,7 +1,7 @@
 ## KS_V3S
 
 • Bilibili Video:https://www.bilibili.com/video/BV17z4y1S7D6
-I have designed this PCB, because the sheer power of this SoC, at very low power consumption, combined with its display capabilities, it offers options that makers have never seen before.
+• I have designed this PCB, because the sheer power of this SoC, at very low power consumption, combined with its display capabilities, it offers options that makers have never seen before.
 
 There is one version available: the 2 layer version.
 Have a look at the subfolder for the 2 layer version to check out the specific features.
