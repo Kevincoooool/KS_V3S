@@ -4,7 +4,7 @@
  * @Author       : Kevincoooool
  * @Date         : 2020-12-26 12:29:37
  * @LastEditors  : Kevincoooool
- * @LastEditTime : 2021-02-02 08:40:48
+ * @LastEditTime : 2021-02-02 08:41:19
  * @FilePath     : \Github\KS_V3S\README.md
 -->
 ## KS_V3S
@@ -30,8 +30,8 @@ The KS_V3S:<br>
 The KS_V3S can only boot from SD card . <br>
 I'm currently <b> not </B> available for custom projects. <br>
 If you have any questions email me at 97354734@qq.com <br><br>
-Pic:
+Pic:<br>
 | ------ | --------- |<br>
-| <img src="https://github.com/Kevincoooool/KS_V3S/blob/main/pic/back.jpg" height="500px" width="804px" title="反面" style="display:inherit;"/> <br> <img src="https://github.com/Kevincoooool/KS_V3S/blob/main/pic/front.jpg" height="500px" width="804px" title="正面" style="display:inherit;"/> <br> <img src="https://github.com/Kevincoooool/KS_V3S/blob/main/pic/pcb.png" height="500px" width="804px" title="PCB" style="display:inherit;"/> <br>
+<img src="https://github.com/Kevincoooool/KS_V3S/blob/main/pic/back.jpg" height="600px" width="804px" title="反面" style="display:inherit;"/> <br> <img src="https://github.com/Kevincoooool/KS_V3S/blob/main/pic/front.jpg" height="600px" width="804px" title="正面" style="display:inherit;"/> <br> <img src="https://github.com/Kevincoooool/KS_V3S/blob/main/pic/pcb.png" height="600px" width="804px" title="PCB" style="display:inherit;"/> <br>
 
 
